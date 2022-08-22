@@ -1,4 +1,0 @@
-Good oral and written English communication
-Minimum 3 years experience in Microsoft Power BI development
-Should know Advanced Microsoft Excel (VLOOKUP, SUMIF, COUNTIF, PivotTables,
- text manipulation, data validation, OFFSET, INDEX, MATCH, array formulas)
